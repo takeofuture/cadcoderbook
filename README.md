@@ -3,6 +3,7 @@ CADCODERのGOOGLE　COLABで動くノートです
 通常のJUPYTERなどでも動くと思います。
 インストールは以下です。
 ```
+# pip install -U pip
 # pip install cadquery
 ```
 できあがったファイルの表示なども必要であれば以下でインストールください
